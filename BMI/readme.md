@@ -24,7 +24,7 @@ A simple web-based BMI (Body Mass Index) calculator that allows users to input t
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
+   git clone https://github.com/Rajip2001/basic_javascripts_project.git
 
 
 ## Usage
