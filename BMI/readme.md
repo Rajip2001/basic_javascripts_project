@@ -7,8 +7,6 @@ A simple web-based BMI (Body Mass Index) calculator that allows users to input t
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Input weight in kilograms (KG) and height in centimeters (CM).
